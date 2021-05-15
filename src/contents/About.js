@@ -59,7 +59,7 @@ function About() {
                   <div className="row">
                     <div className="buttons padd-15">
                       <a
-                        href="https://drive.google.com/file/d/19TZduEb_jZvqtNrrBcFFmiKscXp9xYsy/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1tX0C9Sp5mpPI9SaYFhmhyS833D9gQxqG/view?usp=sharing"
                         download
                         target="_blank"
                         rel="noreferrer"
